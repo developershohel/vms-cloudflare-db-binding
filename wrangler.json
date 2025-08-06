@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "vms-cloudflare-db-binding",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "91cdde5d-cf1c-4d76-8a7b-510b98d2619f",
+      "database_name": "cloudflare_d1_database"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
